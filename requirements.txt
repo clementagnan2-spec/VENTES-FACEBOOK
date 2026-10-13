@@ -1,0 +1,5 @@
+customtkinter
+pillow
+qrcode[pil]
+opencv-python
+requests
